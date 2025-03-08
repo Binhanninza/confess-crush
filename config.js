@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Website tỏ tình",
     introTitle: 'Gửi người nhận được tin nhắn này <3 ',
-    introDesc: `Thư dành chonhững bạn nữ trong lớp 8A3 <33
+    introDesc: `Thư dành cho ngươiiii<33
     `,
     btnIntro: '^^ ỏoooi^^',
     title: 'Chúc cậu có một ngày 8tháng 3 🥰',
@@ -12,7 +12,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu, không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    messDesc: '🌚',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/Binhandaynay' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
