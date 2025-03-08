@@ -5,7 +5,7 @@ const CONFIG = {
     `,
     btnIntro: '^^ ỏoooi^^',
     title: 'Chúc cậu có một ngày 8tháng 3 🥰',
-    desc: 'Thật vui vẻ, luôn là cô gái xinh đẹp, thông minh và "siêu đỉnh" như hôm nay và đừng quên giữ phong độ đấy nhé! Chúc bạn ngày 8/3 hạnh phúc. Có nhận lời chúc  này của bảnh khong??',
+    desc: 'Thật vui vẻ, luôn là cô gái xinh đẹp, thông minh và "siêu đỉnh" như hôm nay và đừng quên giữ phong độ đấy nhé! Chúc bạn ngày 8/3 hạnh phúc. Có nhận lời chúc  này của bảnh khong?? Thử bấm không xem 😡😳',
     btnYes: 'Oce lun <33',
     btnNo: 'Không nha :3',
     question: 'Tớ biết mà <3',
